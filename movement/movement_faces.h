@@ -124,6 +124,7 @@
 #include "metronome_face.h"
 #include "smallchess_face.h"
 #include "tide_lunar_face.h"
+#include "mml_player_face.h"
 // New includes go above this line.
 
 #endif // MOVEMENT_FACES_H_
